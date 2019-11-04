@@ -1,1 +1,1 @@
-# TDDclass
+Aula pŕatica TDD
